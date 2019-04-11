@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="sys_user_group" relationship="" sys_domain="global" table="sys_user_grmember" version="2" view="OCIR">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="sys_user_grmember" element="NULL" name="sys_user_grmember" parent="sys_user_group" relationship="NULL" sys_domain="global" view="ab82c29adbd43300d37153184b9619d0">439f27c4db743300d37153184b9619ae</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 15:01:16</sys_created_on>
+            <sys_id>cb9f27c4db743300d37153184b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 15:01:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user.roles</element>
+            <list_id display_value="sys_user_grmember" element="NULL" name="sys_user_grmember" parent="sys_user_group" relationship="NULL" sys_domain="global" view="ab82c29adbd43300d37153184b9619d0">439f27c4db743300d37153184b9619ae</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 15:01:16</sys_created_on>
+            <sys_id>4f9f27c4db743300d37153184b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 15:01:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_user_grmember</name>
+            <parent>sys_user_group</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 15:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>439f27c4db743300d37153184b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user_grmember</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_ui_list_sys_user_grmember_sys_user_group_OCIR</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 15:01:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="OCIR" name="OCIR">ab82c29adbd43300d37153184b9619d0</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

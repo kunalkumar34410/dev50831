@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="location" table="x_296864_coop_ocir_stg_infrastructure" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Balloon Street</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence/>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ab4aa28dbe03300d37153184b961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:35:49</sys_updated_on>
+            <value>Balloon Street</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Olympic House, Manchester</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>2</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:36:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73e42628dbe03300d37153184b9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:36:15</sys_updated_on>
+            <value>Olympic House, Manchester</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS Manchester</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>3</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:36:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f4e228dbe03300d37153184b96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:36:25</sys_updated_on>
+            <value>CIS Manchester</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia House, Leek</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>4</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:36:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c105ee28dbe03300d37153184b961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:36:37</sys_updated_on>
+            <value>Britannia House, Leek</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delf House, Skelmersdale</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>5</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:36:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23056e28dbe03300d37153184b961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:36:47</sys_updated_on>
+            <value>Delf House, Skelmersdale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sandalwood Court, Tytherington</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>6</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:36:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f515ee28dbe03300d37153184b961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:36:56</sys_updated_on>
+            <value>Sandalwood Court, Tytherington</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>St.Pauls, London</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>7</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:37:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4425ae28dbe03300d37153184b961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:37:05</sys_updated_on>
+            <value>St.Pauls, London</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pyramid, Stockport</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>8</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:37:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a252268dbe03300d37153184b96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:37:15</sys_updated_on>
+            <value>Pyramid, Stockport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Newton House, Leek</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sequence>9</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:37:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8935ee28dbe03300d37153184b9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:37:27</sys_updated_on>
+            <value>Newton House, Leek</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <name>x_296864_coop_ocir_stg_infrastructure</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:35:49</sys_created_on>
+            <sys_id>95d46628dbe03300d37153184b9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>location</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_infrastructure_location</sys_update_name>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:35:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

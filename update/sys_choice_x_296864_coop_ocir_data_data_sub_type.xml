@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="data_sub_type" table="x_296864_coop_ocir_data" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>data_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Data</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_data</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 20:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>167fb6c6db103300d37153184b9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 20:07:24</sys_updated_on>
+            <value>customer data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>data_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Financial Data</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_data</name>
+            <sequence>1</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 20:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>567fb6c6db103300d37153184b9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 20:07:24</sys_updated_on>
+            <value>financial data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>data_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Data</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_data</name>
+            <sequence>2</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 20:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d27fb6c6db103300d37153184b9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 20:07:24</sys_updated_on>
+            <value>employee data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>data_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing Data</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_data</name>
+            <sequence>3</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 20:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>527fb6c6db103300d37153184b9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 20:07:24</sys_updated_on>
+            <value>marketing data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>data_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_data</name>
+            <sequence>4</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 20:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de7fb6c6db103300d37153184b9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 20:07:24</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>data_sub_type</element>
+            <name>x_296864_coop_ocir_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 20:07:24</sys_created_on>
+            <sys_id>5e7fb6c6db103300d37153184b9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>data_sub_type</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_data_data_sub_type</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 20:07:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

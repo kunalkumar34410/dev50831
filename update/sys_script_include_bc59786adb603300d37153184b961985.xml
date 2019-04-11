@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_296864_coop_ocir.OCIR_getDateDifference2</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>OCIR_getDateDifference2</name>
+        <script><![CDATA[var OCIR_getDateDifference2 = Class.create();
+OCIR_getDateDifference2.prototype = {
+    initialize: function() {
+	//this.sp = uniqueSysId;
+},
+	
+	getDateDiff: function(uniqueSysId){
+		var flag = false;
+		var dur;
+		var sp = uniqueSysId;
+		
+		var red_states=['11','12','16','17'];
+		var amber_states=['11','12','16','17'];
+		var green_states=['13','14','20'];
+		
+		gs.info('subtraction1: '+sp);
+		var succPlan = new GlideRecord('x_296864_coop_ocir_stg_succession_plan');
+		succPlan.addQuery('sys_id',sp);
+		succPlan.query();
+		if(succPlan.next()){
+			var plannedDate = succPlan.ocir_task.interim_due_date;
+			var task_state=succPlan.ocir_task.state.toString();
+			// 		var tsk = new GlideRecord('x_296864_coop_ocir_ocir_task');
+			// 		tsk.get(taskId);
+			//var plannedDate = tsk.interim_due_date;
+			plannedDate = new GlideDateTime(plannedDate);
+			var currDate = new GlideDateTime();
+			gs.info('planned date: '+plannedDate+' cur date: '+currDate+"---"+task_state);
+			flag = plannedDate.onOrBefore(currDate);
+			//flag =true;
+			gs.info('flag: '+flag);
+			if(flag == true){
+				gs.info('inside true '+flag);
+				//dur = GlideDateTime.subtract(currDate,plannedDate);
+				//dur = dur.getDisplayValue().toString();
+				var dur2 = GlideDateTime.subtract(plannedDate,currDate);
+				dur2 = dur2.getDisplayValue().toString();
+				//gs.info('duration: '+dur);
+				gs.info(task_state+'duration2: '+dur2);
+				if(dur2.indexOf('Days') >-1){
+					dur2 = dur2.split(' ');
+					var dur1 = parseInt(dur2[0]);
+					gs.info('days: '+dur1);
+					if(dur1 >10){
+						for(var i=0;i<red_states.length;i++)
+							{
+							if(task_state==red_states[i])
+							return 'red';
+							}
+						
+					}
+					for(var ij=0;ij<amber_states.length;ij++)
+						{
+						if(task_state==amber_states[ij])
+						return 'yellow';	
+						}
+						
+				}
+				
+			}
+			for(var ik=0;ik<green_states.length;ik++)
+				{
+				if(task_state==green_states[ik])
+				return 'green';	
+				}
+				
+			//dur = GlideDateTime.subtract(plannedDate, currDate);
+		}
+	},
+    type: 'OCIR_getDateDifference2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-04 10:05:25</sys_created_on>
+        <sys_id>bc59786adb603300d37153184b961985</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>OCIR_getDateDifference2</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_script_include_bc59786adb603300d37153184b961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-04 10:29:24</sys_updated_on>
+    </sys_script_include>
+</record_update>

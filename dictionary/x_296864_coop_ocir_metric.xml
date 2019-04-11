@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Metric" max_length="40" name="x_296864_coop_ocir_metric" type="collection">
+        <element label="Metric Description" max_length="1000" name="description" type="string"/>
+        <element label="Metric Name" max_length="40" name="name" type="string"/>
+        <element label="Subservice" max_length="32" name="subservice" reference="x_296864_coop_ocir_stg_subservice" type="reference"/>
+        <element label="Target Service Level" max_length="40" name="target_service_level" type="string"/>
+        <element label="Unit of Measure" max_length="40" name="unit_of_measure" type="string"/>
+        <index name="index">
+            <element name="subservice"/>
+        </index>
+    </element>
+</database>

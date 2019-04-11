@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_296864_coop_ocir_subservice" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Subservice - Default view" name="x_296864_coop_ocir_subservice" related_list="NULL" sys_domain="global" view="Default view">4b409b58dbbc3300d37153184b9619ff</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_296864_coop_ocir_third_party_services.subservice</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-10 07:22:56</sys_created_on>
+            <sys_id>4740db58dbbc3300d37153184b961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-10 07:22:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Subservice - Default view" name="x_296864_coop_ocir_subservice" related_list="NULL" sys_domain="global" view="Default view">4b409b58dbbc3300d37153184b9619ff</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_296864_coop_ocir_metric.subservice</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-10 07:22:56</sys_created_on>
+            <sys_id>4f40db58dbbc3300d37153184b961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-10 07:22:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Subservice - Default view</calculated_name>
+            <filter/>
+            <name>x_296864_coop_ocir_subservice</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-10 07:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b409b58dbbc3300d37153184b9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Subservice - Default view</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_ui_related_x_296864_coop_ocir_subservice_null</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-10 07:22:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

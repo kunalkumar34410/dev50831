@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Coop Ocir M2m Economic Fun Services" max_length="40" name="x_296864_coop_ocir_m2m_economic_fun_services" type="collection">
+        <element label="Economic Function" max_length="32" name="economic_function" reference="x_296864_coop_ocir_economic_function" type="reference"/>
+        <element label="Service" max_length="32" name="service" reference="x_296864_coop_ocir_service" type="reference"/>
+        <index name="index">
+            <element name="service"/>
+        </index>
+        <index name="index2">
+            <element name="economic_function"/>
+        </index>
+    </element>
+</database>

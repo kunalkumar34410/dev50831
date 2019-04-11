@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_296864_coop_ocir.QC Approver</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>QC Approver</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>anasuya</sys_created_by>
+        <sys_created_on>2019-04-08 07:13:57</sys_created_on>
+        <sys_id>3dda747bdb203300d37153184b96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_296864_coop_ocir.QC Approver</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_user_role_3dda747bdb203300d37153184b96194c</sys_update_name>
+        <sys_updated_by>anasuya</sys_updated_by>
+        <sys_updated_on>2019-04-08 07:13:57</sys_updated_on>
+    </sys_user_role>
+</record_update>

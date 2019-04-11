@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_296864_coop_ocir_business_unit</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>OCIR_Validate BU Updation</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Rule BR003: A Business unit can only be deleted or updated if there is no task which is underway (i.e. exists in a state other than completed or deleted for any of the user groups within the business unit)
+	var ocirTask = new GlideRecord('x_296864_coop_ocir_ocir_task');
+	ocirTask.addEncodedQuery('state!=20^refresh_assignment_group.u_business_unit=' + current.sys_id);
+	ocirTask.query();
+	while (ocirTask.next()) {
+		gs.addErrorMessage('A Business unit can only be deleted or updated if there is no task underway for any of the user groups within this business unit');
+		current.setAbortAction(true);
+	}
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>kunal</sys_created_by>
+        <sys_created_on>2019-04-04 10:15:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>336c302edb603300d37153184b96195d</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>OCIR_Validate BU Updation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_script_336c302edb603300d37153184b96195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-09 14:36:36</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=336c302edb603300d37153184b96195d"/>
+</record_update>

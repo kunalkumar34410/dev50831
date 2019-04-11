@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="3rd Party Services" max_length="40" name="x_296864_coop_ocir_third_party_services" type="collection">
+        <element label="Contract Reference" max_length="40" name="contract_ref" type="string"/>
+        <element label="Service Description" max_length="1000" name="service_desc" type="string"/>
+        <element label="Subservice Supplier ID" max_length="32" name="subservice" reference="x_296864_coop_ocir_subservice" type="reference"/>
+        <element label="Subservice" max_length="32" name="subservice_stg" reference="x_296864_coop_ocir_stg_subservice" type="reference"/>
+        <element label="3rd Party Supplier" max_length="32" name="u_3rd_party_supplier" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <index name="index">
+            <element name="subservice_stg"/>
+        </index>
+        <index name="index2">
+            <element name="u_3rd_party_supplier"/>
+        </index>
+        <index name="index3">
+            <element name="subservice"/>
+        </index>
+    </element>
+</database>

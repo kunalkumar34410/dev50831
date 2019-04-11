@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_296864_coop_ocir_stg_aggregate_assets" label="Telephony" max_length="40" name="x_296864_coop_ocir_stg_telephony" type="collection"/>
+</database>

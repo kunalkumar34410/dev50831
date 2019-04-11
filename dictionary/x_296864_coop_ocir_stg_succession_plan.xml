@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Succession Plan" max_length="40" name="x_296864_coop_ocir_stg_succession_plan" type="collection">
+        <element label="Business Unit" max_length="32" name="business_unit" reference="x_296864_coop_ocir_business_unit" type="reference"/>
+        <element label="Change Agent" max_length="40" name="change_agent" type="boolean"/>
+        <element label="Email ID" max_length="40" name="email_id" type="string"/>
+        <element label="Employee ID" max_length="40" name="emp_id" type="string"/>
+        <element label="Employee ID of the Successor" mandatory="true" max_length="40" name="emp_id_successor" type="string"/>
+        <element label="File Path" max_length="40" name="file_path" type="string"/>
+        <element label="Key Decision Maker" max_length="40" name="key_decision_maker" type="boolean"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Name of Successor" mandatory="true" max_length="40" name="name_of_successor" type="string"/>
+        <element label="Task" max_length="32" name="ocir_task" reference="x_296864_coop_ocir_ocir_task" type="reference"/>
+        <element label="Senior Staff" max_length="40" name="senior_staff" type="boolean"/>
+        <element label="Service ID" max_length="32" name="service_id" reference="x_296864_coop_ocir_stg_service" type="reference"/>
+        <element choice="3" default="new" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Copied" sequence="10" value="copied"/>
+                <element inactive_on_update="false" label="Name Validated" sequence="20" value="validated"/>
+                <element inactive_on_update="false" label="Name Changed" sequence="30" value="name_changed"/>
+                <element inactive_on_update="false" label="Successor Confirmed" sequence="40" value="successor_confirmed"/>
+                <element inactive_on_update="false" label="Succession plan in place" sequence="50" value="succession_plan_in_place"/>
+                <element inactive_on_update="false" label="Succession plan under draft" sequence="60" value="succession_plan_in_draft"/>
+                <element inactive_on_update="false" label="Escalated to business" sequence="70" value="escalated_to_business"/>
+                <element inactive_on_update="false" label="Successor to be identified" sequence="80" value="successor_to_be_identified"/>
+                <element inactive_on_update="false" label="Succession plan not started" sequence="90" value="succession_plan_not_started"/>
+                <element inactive_on_update="false" label="Succession plan field" sequence="100" value="succession_plan_field"/>
+                <element inactive_on_update="false" label="Succession plan ready for review" sequence="110" value="succession_plan_ready_for_review"/>
+                <element inactive_on_update="false" label="Reviewed and signed off" sequence="120" value="reviewed_and_signed_off"/>
+            </choice>
+        </element>
+        <element choice="1" default="yes" label="Succession Plan" max_length="40" name="succession_plan" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="10" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="20" value="no"/>
+            </choice>
+        </element>
+        <element label="User Group" max_length="32" name="user_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="user_group"/>
+        </index>
+        <index name="index2">
+            <element name="service_id"/>
+        </index>
+        <index name="index3">
+            <element name="business_unit"/>
+        </index>
+        <index name="index4">
+            <element name="ocir_task"/>
+        </index>
+    </element>
+</database>

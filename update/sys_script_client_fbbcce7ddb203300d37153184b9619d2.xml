@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>change_agent</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>OCIR_Validate  before submit</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   if(g_form.getValue('name')!=''||g_form.getValue('email_id')!=''||g_form.getValue('emp_id')!='')
+	   {
+		  console.log("test jhere ---- "+g_form.getValue('change_agent'));   if(g_form.getValue('change_agent')=='false'&&g_form.getValue('key_decision_maker')=='false'&&g_form.getValue('senior_staff')=='false')
+{
+	alert('Please select any one of Change Agent/Key Decision Maker/Senior Staff');
+	return false;
+}
+		   
+		   
+		   
+	   }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>navin</sys_created_by>
+        <sys_created_on>2019-04-02 08:03:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fbbcce7ddb203300d37153184b9619d2</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>OCIR_Validate  before submit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_script_client_fbbcce7ddb203300d37153184b9619d2</sys_update_name>
+        <sys_updated_by>navin</sys_updated_by>
+        <sys_updated_on>2019-04-02 08:33:16</sys_updated_on>
+        <table>x_296864_coop_ocir_stg_succession_plan</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

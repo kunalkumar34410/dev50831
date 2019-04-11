@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Business Unit" max_length="40" name="x_296864_coop_ocir_business_unit" type="collection">
+        <element label="ExCo Member" max_length="32" name="bu_exco" reference="sys_user" type="reference"/>
+        <element label="BU Code" mandatory="true" max_length="40" name="code" type="string" unique="true"/>
+        <element display="true" label="Business Unit" mandatory="true" max_length="40" name="name" type="string" unique="true"/>
+        <index name="index">
+            <element name="code"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
+        </index>
+        <index name="index3">
+            <element name="bu_exco"/>
+        </index>
+    </element>
+</database>

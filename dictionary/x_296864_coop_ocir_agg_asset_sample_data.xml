@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Agg Asset Sample Data" max_length="40" name="x_296864_coop_ocir_agg_asset_sample_data" type="collection">
+        <element attributes="import_attribute_name=3rd Party Supplier,edge_encryption_enabled=true" label="3rd Party Supplier" max_length="45" name="u_3rd_party_supplier" type="string"/>
+        <element attributes="import_attribute_name=Asset Component,edge_encryption_enabled=true" label="Asset Component" max_length="44" name="u_asset_component" type="string"/>
+        <element attributes="import_attribute_name=Asset Sub-Type,edge_encryption_enabled=true" label="Asset Sub-Type" max_length="82" name="u_asset_sub_type" type="string"/>
+        <element attributes="import_attribute_name=Comments,edge_encryption_enabled=true" label="Comments" max_length="1504" name="u_comments" type="string"/>
+        <element attributes="import_attribute_name=ID,edge_encryption_enabled=true" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=Owned or Leased,edge_encryption_enabled=true" label="Owned or Leased" max_length="40" name="u_owned_or_leased" type="string"/>
+        <element attributes="import_attribute_name=Rationale,edge_encryption_enabled=true" label="Rationale" max_length="40" name="u_rationale" type="string"/>
+        <element attributes="import_attribute_name=ServiceNow table,edge_encryption_enabled=true" label="ServiceNow table" max_length="53" name="u_servicenow_table" type="string"/>
+        <element attributes="import_attribute_name=Supplite Contract Remidiated,edge_encryption_enabled=true" label="Supplite Contract Remidiated" max_length="40" name="u_supplite_contract_remidiated" type="string"/>
+        <element attributes="import_attribute_name=Suupplier ID,edge_encryption_enabled=true" label="Suupplier ID" max_length="40" name="u_suupplier_id" type="string"/>
+    </element>
+</database>

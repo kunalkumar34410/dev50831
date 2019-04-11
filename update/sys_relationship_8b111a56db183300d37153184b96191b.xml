@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_296864_coop_ocir_subservice</basic_apply_to>
+        <basic_query_from>x_296864_coop_ocir_economic_function</basic_query_from>
+        <insert_callback/>
+        <name>Economic Function - Subservice</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+	current.addEncodedQuery('subservice=' + parent.sys_id + '^active=true');
+
+})(current, parent);]]></query_with>
+        <reference_field>subservice</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>kunal</sys_created_by>
+        <sys_created_on>2019-03-22 11:30:50</sys_created_on>
+        <sys_id>8b111a56db183300d37153184b96191b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Economic Function - Subservice</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_relationship_8b111a56db183300d37153184b96191b</sys_update_name>
+        <sys_updated_by>kunal</sys_updated_by>
+        <sys_updated_on>2019-03-22 11:33:57</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=8b111a56db183300d37153184b96191b"/>
+</record_update>

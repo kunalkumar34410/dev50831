@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="task_type" table="x_296864_coop_ocir_ocir_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Criticality</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27ba1bb5db243300d37153184b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh criticality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Op assets</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3ba1bb5db243300d37153184b9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh op assets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh attributes</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fba1bb5db243300d37153184b9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh attributes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Metrics</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2bba1bb5db243300d37153184b9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh metrics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh ATM</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3ba1bb5db243300d37153184b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh atm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh IT Infrastructure</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afba1bb5db243300d37153184b9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh it infrastructure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Intranet</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>6</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6bba1bb5db243300d37153184b9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh intranet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Mobile Network</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>7</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27ba1bb5db243300d37153184b9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh mobile network</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Digital assets</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>8</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>efba1bb5db243300d37153184b9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh digital assets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Telephony</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>9</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abba1bb5db243300d37153184b9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh telephony</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Estates</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>10</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67ba1bb5db243300d37153184b9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh estates</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Desktops</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>11</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23ba1bb5db243300d37153184b9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh desktops</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Mobile Hardware</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>12</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebba1bb5db243300d37153184b9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh mobile hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh marketing assets</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>13</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7ba1bb5db243300d37153184b9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh marketing assets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh FMIs</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>14</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63ba1bb5db243300d37153184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh fmis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Policies</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>15</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fba1bb5db243300d37153184b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh policies</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh legal assets</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>16</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e7ba1bb5db243300d37153184b9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh legal assets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh succession plan</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>17</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3ba1bb5db243300d37153184b9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh succession plan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Refresh Costing</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>18</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fba1bb5db243300d37153184b9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+            <value>refresh costing</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>task_type</element>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-02 13:43:46</sys_created_on>
+            <sys_id>6fba1bb5db243300d37153184b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>task_type</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_ocir_task_task_type</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-02 13:43:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

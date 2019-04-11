@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Data" max_length="40" name="x_296864_coop_ocir_stg_data" type="collection">
+        <element label="Bank Contact" max_length="40" name="bank_contact" type="string"/>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element choice="1" label="Data Sub-Type" max_length="40" name="data_sub_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Customer Data" sequence="0" value="customer data"/>
+                <element inactive_on_update="false" label="Financial Data" sequence="1" value="financial data"/>
+                <element inactive_on_update="false" label="Employee Data" sequence="2" value="employee data"/>
+                <element inactive_on_update="false" label="Marketing Data" sequence="3" value="marketing data"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element choice="1" label="Licensed Entity" max_length="40" name="licensed_entity" reference="x_296864_coop_ocir_legal_entities" type="glide_list">
+            <choice/>
+        </element>
+        <element label="Service ID" max_length="32" name="service_id" reference="x_296864_coop_ocir_stg_service" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Task" max_length="32" name="task" reference="x_296864_coop_ocir_ocir_task" type="reference"/>
+        <element label="3rd Party Supplier" max_length="32" name="u_3rd_party_supplier" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <index name="index">
+            <element name="task"/>
+        </index>
+        <index name="index2">
+            <element name="u_3rd_party_supplier"/>
+        </index>
+        <index name="index3">
+            <element name="service_id"/>
+        </index>
+    </element>
+</database>

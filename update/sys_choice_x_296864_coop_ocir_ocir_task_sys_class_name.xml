@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sys_class_name" table="x_296864_coop_ocir_ocir_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OCIR Task</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-26 10:42:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>742eaa2fdb503300d37153184b96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-26 10:42:33</sys_updated_on>
+            <value>x_296864_coop_ocir_ocir_task</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <name>x_296864_coop_ocir_ocir_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-26 10:42:33</sys_created_on>
+            <sys_id>fc2eaa2fdb503300d37153184b96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_class_name</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_ocir_task_sys_class_name</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-26 10:42:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

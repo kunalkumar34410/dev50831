@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_296864_coop_ocir_succession_plan</description>
+        <name>x_296864_coop_ocir_succession_plan</name>
+        <operation display_value="write">write</operation>
+        <script><![CDATA[answer = false;]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>kunal</sys_created_by>
+        <sys_created_on>2019-03-21 20:47:16</sys_created_on>
+        <sys_id>9a98cb8edb103300d37153184b9619c4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_296864_coop_ocir_succession_plan</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_security_acl_9a98cb8edb103300d37153184b9619c4</sys_update_name>
+        <sys_updated_by>kunal</sys_updated_by>
+        <sys_updated_on>2019-04-02 08:41:07</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

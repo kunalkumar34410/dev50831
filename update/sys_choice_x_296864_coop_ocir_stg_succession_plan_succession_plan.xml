@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="succession_plan" table="x_296864_coop_ocir_stg_succession_plan" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>succession_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>10</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-04-02 08:29:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90c21eb1db603300d37153184b96195c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-04-02 08:29:28</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>succession_plan</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>20</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-04-02 08:29:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96d25ab1db603300d37153184b96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-04-02 08:29:39</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>succession_plan</element>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-04-02 08:29:23</sys_created_on>
+            <sys_id>9ac2dab1db603300d37153184b961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>succession_plan</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_succession_plan_succession_plan</sys_update_name>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-04-02 08:29:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

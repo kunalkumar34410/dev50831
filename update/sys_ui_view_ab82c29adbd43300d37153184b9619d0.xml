@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>OCIR</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>kunal</sys_created_by>
+        <sys_created_on>2019-03-22 10:19:44</sys_created_on>
+        <sys_id>ab82c29adbd43300d37153184b9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OCIR</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_ui_view_ab82c29adbd43300d37153184b9619d0</sys_update_name>
+        <sys_updated_by>kunal</sys_updated_by>
+        <sys_updated_on>2019-03-22 10:19:44</sys_updated_on>
+        <title>OCIR</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

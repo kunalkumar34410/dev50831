@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>status</element>
+        <name>x_296864_coop_ocir_stg_succession_plan</name>
+        <style>background-color:green;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-04 09:44:20</sys_created_on>
+        <sys_id>7717f0a6db603300d37153184b9619a0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_296864_coop_ocir_stg_succession_plan</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_ui_style_7717f0a6db603300d37153184b9619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-05 07:54:00</sys_updated_on>
+        <value>javascript: new OCIR_getDateDifference2().getDateDiff(current.sys_id) == 'green';</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=7717f0a6db603300d37153184b9619a0"/>
+</record_update>

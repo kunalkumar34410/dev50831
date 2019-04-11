@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="661dcb42db503300d37153184b9619d2" sys_domain="global" table="x_296864_coop_ocir_property" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets</element>
+            <position>0</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>274dc382db503300d37153184b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.asset_sub_type</element>
+            <position>1</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>a74dc382db503300d37153184b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.asset_component</element>
+            <position>2</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>674d0782db503300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.owner_leased</element>
+            <position>3</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>e74d0782db503300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>6b4d0782db503300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.u_3rd_party_supplier</element>
+            <position>5</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>eb4d0782db503300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.supplier_id</element>
+            <position>6</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>6f4d0782db503300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.supplier_contract_remediated</element>
+            <position>7</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>ef4d0782db503300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>634d0782db503300d37153184b96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.rationale</element>
+            <position>9</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>e34d0782db503300d37153184b96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aggregate_assets.comments</element>
+            <position>10</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:07:50</sys_created_on>
+            <sys_id>674d0782db503300d37153184b96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_property" sys_domain="global" view="Default view">661dcb42db503300d37153184b9619d2</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_296864_coop_ocir_property</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 21:06:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>661dcb42db503300d37153184b9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_296864_coop_ocir_property</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_ui_section_661dcb42db503300d37153184b9619d2</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 21:06:57</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

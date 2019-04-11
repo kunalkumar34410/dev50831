@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_296864_coop_ocir_third_party_supplier" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="3rd Party Supplier - Default view" name="x_296864_coop_ocir_third_party_supplier" related_list="NULL" sys_domain="global" view="Default view">1d860e5edbd43300d37153184b961983</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_296864_coop_ocir_application.third_party_supplier</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_id>15860e5edbd43300d37153184b961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="3rd Party Supplier - Default view" name="x_296864_coop_ocir_third_party_supplier" related_list="NULL" sys_domain="global" view="Default view">1d860e5edbd43300d37153184b961983</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_296864_coop_ocir_eucs.third_party_supplier</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_id>19860e5edbd43300d37153184b961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="3rd Party Supplier - Default view" name="x_296864_coop_ocir_third_party_supplier" related_list="NULL" sys_domain="global" view="Default view">1d860e5edbd43300d37153184b961983</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_296864_coop_ocir_data.third_party_supplier</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_id>1d860e5edbd43300d37153184b961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="3rd Party Supplier - Default view" name="x_296864_coop_ocir_third_party_supplier" related_list="NULL" sys_domain="global" view="Default view">1d860e5edbd43300d37153184b961983</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>x_296864_coop_ocir_infrastructure.third_party_supplier</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_id>11860e5edbd43300d37153184b961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="3rd Party Supplier - Default view" name="x_296864_coop_ocir_third_party_supplier" related_list="NULL" sys_domain="global" view="Default view">1d860e5edbd43300d37153184b961983</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>x_296864_coop_ocir_third_party_services.u_3rd_party_supplier</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_id>15860e5edbd43300d37153184b961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="3rd Party Supplier - Default view" name="x_296864_coop_ocir_third_party_supplier" related_list="NULL" sys_domain="global" view="Default view">1d860e5edbd43300d37153184b961983</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>x_296864_coop_ocir_aggregate_assets.u_3rd_party_supplier</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_id>19860e5edbd43300d37153184b961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>3rd Party Supplier - Default view</calculated_name>
+            <filter/>
+            <name>x_296864_coop_ocir_third_party_supplier</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-22 10:37:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d860e5edbd43300d37153184b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Third Party Supplier - Default view</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_ui_related_x_296864_coop_ocir_third_party_supplier_null</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-22 10:37:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

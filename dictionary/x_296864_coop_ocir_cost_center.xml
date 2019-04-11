@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cost Center" max_length="40" name="x_296864_coop_ocir_cost_center" type="collection">
+        <element label="Cost Center" max_length="40" name="cost_center" type="string"/>
+        <element label="Cost Description" max_length="1000" name="description" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Service" max_length="40" name="x_296864_coop_ocir_service" type="collection">
+        <element choice="1" label="Criticality" max_length="40" name="criticality" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Critical" sequence="100" value="critical"/>
+                <element inactive_on_update="false" label="Non Critical" sequence="200" value="nonCritical"/>
+            </choice>
+        </element>
+        <element label="Service Description" max_length="1000" name="description" type="string"/>
+        <element display="true" label="Service ID" max_length="40" name="service_id" type="string"/>
+        <element label="Service Name" max_length="100" name="service_name" type="string"/>
+        <element label="Service Owner / Senior Staff" max_length="32" name="service_owner_senior_staff" reference="sys_user" type="reference"/>
+        <element label="User group" max_length="32" name="user_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="user_group"/>
+        </index>
+        <index name="index2">
+            <element name="service_owner_senior_staff"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="licensed_entity" table="x_296864_coop_ocir_application" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Co-operative Bank plc</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>0</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d287b952dbd43300d37153184b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>the co-operative bank plc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia Treasury Services Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>1</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1687b952dbd43300d37153184b9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>britannia treasury services ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Co-operative Bank Holdings Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>2</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9287b952dbd43300d37153184b9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>the co-operative bank holdings limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Moorland Covered Bonds LLP</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>3</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1287b952dbd43300d37153184b9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>moorland covered bonds llp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Second Roodhill Leasing Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>4</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e87f952dbd43300d37153184b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>second roodhill leasing ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Third Roodhill Leasing Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>5</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a87f952dbd43300d37153184b9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>third roodhill leasing ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fourth Roodhill Leasing Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>6</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a87f952dbd43300d37153184b9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>fourth roodhill leasing ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Platform Funding Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>7</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9687f952dbd43300d37153184b9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>platform funding ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-operative Bank Financial Advisers Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>8</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1687f952dbd43300d37153184b9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>co-operative bank financial advisers ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number One Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>9</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9287f952dbd43300d37153184b9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>mortgage agency services number one ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Two Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>10</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1287f952dbd43300d37153184b9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>mortgage agency services number two ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Four Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>11</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e87f952dbd43300d37153184b9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>mortgage agency services number four ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Five Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>12</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e87f952dbd43300d37153184b9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>mortgage agency services number five ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Six Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>13</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a87f952dbd43300d37153184b9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>mortgage agency services number six ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia International Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>14</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a87f952dbd43300d37153184b9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>britannia international ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BPS Principal Employer Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>15</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9687f952dbd43300d37153184b9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>bps principal employer limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia Development &amp; Management Company Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>16</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1687f952dbd43300d37153184b9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>britannia development &amp; management company ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-operative Commercial Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>17</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9287f952dbd43300d37153184b9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>co-operative commercial ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia Pension Trustees Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>18</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1287f952dbd43300d37153184b9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>britannia pension trustees limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pace Trustees Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>19</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e87f952dbd43300d37153184b9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>pace trustees limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Balloon Street Issuer Co Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>20</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e87f952dbd43300d37153184b9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>balloon street issuer co limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Moorland Covered Bonds Finance Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>21</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a87f952dbd43300d37153184b9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+            <value>moorland covered bonds finance limited</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>licensed_entity</element>
+            <name>x_296864_coop_ocir_application</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:31:35</sys_created_on>
+            <sys_id>1e87b952dbd43300d37153184b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>licensed_entity</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_application_licensed_entity</sys_update_name>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:31:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

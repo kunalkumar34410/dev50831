@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Aggregate Assets" max_length="40" name="x_296864_coop_ocir_stg_aggregate_assets" type="collection">
+        <element label="Asset Component" max_length="40" name="asset_component" type="string"/>
+        <element choice="1" choice_field="asset_sub_type" choice_table="x_296864_coop_ocir_aggregate_assets" label="Asset Sub-Type" max_length="40" name="asset_sub_type" type="choice">
+            <choice/>
+        </element>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element display="true" label="ID" max_length="40" name="id" type="string"/>
+        <element choice="1" label="Owned or Leased" max_length="40" name="owned_leased" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Owned" sequence="0" value="owned"/>
+                <element inactive_on_update="false" label="Leased" sequence="1" value="leased"/>
+            </choice>
+        </element>
+        <element label="Rationale" max_length="40" name="rationale" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Business Update" sequence="1" value="awaiting_business_update"/>
+                <element inactive_on_update="false" label="Awaiting Business Approval" sequence="2" value="awaiting_business_approval"/>
+                <element inactive_on_update="false" label="Awaiting Supplier Approval" sequence="3" value="awaiting_supplier_approval"/>
+                <element inactive_on_update="false" label="Awaiting QC Approval" sequence="4" value="awaiting_qc_approval"/>
+                <element inactive_on_update="false" label="Awaiting ExCo Approval" sequence="5" value="awaiting_exco_approval"/>
+                <element inactive_on_update="false" label="Completed" sequence="6" value="completed"/>
+            </choice>
+        </element>
+        <element label="Supplier Contract Remediated" max_length="40" name="supplier_contract" type="boolean"/>
+        <element label="Supplier ID" max_length="40" name="supplier_id" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Task" max_length="32" name="task" reference="x_296864_coop_ocir_ocir_task" type="reference"/>
+        <element label="3rd Party Supplier" max_length="32" name="third_party_supplier" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <index name="index">
+            <element name="task"/>
+        </index>
+        <index name="index2">
+            <element name="third_party_supplier"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

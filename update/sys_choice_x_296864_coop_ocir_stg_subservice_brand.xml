@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="brand" table="x_296864_coop_ocir_stg_subservice" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:07:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>724e1e60dbe03300d37153184b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:07:15</sys_updated_on>
+            <value>Britannia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Service</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c57e96a0dbe03300d37153184b961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:07:57</sys_updated_on>
+            <value>Mortgage Agency Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Platform</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:07:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a33ed6a0dbe03300d37153184b961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:07:02</sys_updated_on>
+            <value>Platform</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>smile</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:06:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c3e1e60dbe03300d37153184b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:06:48</sys_updated_on>
+            <value>smile</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Co Operative Bank</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:06:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>941e56a0dbe03300d37153184b9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:06:33</sys_updated_on>
+            <value>The Co Operative Bank</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>brand</element>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:06:33</sys_created_on>
+            <sys_id>702e9e60dbe03300d37153184b9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>brand</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_subservice_brand</sys_update_name>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:06:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

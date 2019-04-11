@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="service" label="Service" language="en" table="x_296864_coop_ocir_application">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>service</element>
+            <help/>
+            <hint/>
+            <label>Service</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <plural>Services</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:30:34</sys_created_on>
+            <sys_id>1b473952dbd43300d37153184b961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Service</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_documentation_x_296864_coop_ocir_application_service_en</sys_update_name>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:30:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

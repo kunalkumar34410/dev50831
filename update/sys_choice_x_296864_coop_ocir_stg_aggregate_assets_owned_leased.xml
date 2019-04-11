@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="owned_leased" table="x_296864_coop_ocir_stg_aggregate_assets" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>owned_leased</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Owned</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_aggregate_assets</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-08 11:14:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f922f537dbe03300d37153184b96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-08 11:14:40</sys_updated_on>
+            <value>owned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>owned_leased</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leased</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_aggregate_assets</name>
+            <sequence>1</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-08 11:14:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d22f537dbe03300d37153184b96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-08 11:14:40</sys_updated_on>
+            <value>leased</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>owned_leased</element>
+            <name>x_296864_coop_ocir_stg_aggregate_assets</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-08 11:14:40</sys_created_on>
+            <sys_id>3522f537dbe03300d37153184b96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>owned_leased</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_aggregate_assets_owned_leased</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-08 11:14:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Digital Assets" language="en" table="x_296864_coop_ocir_stg_digital_assets">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Digital Assets</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_digital_assets</name>
+            <plural>Digital Assets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-08 12:53:31</sys_created_on>
+            <sys_id>3dc80e77db243300d37153184b96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Digital Assets</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_documentation_x_296864_coop_ocir_stg_digital_assets__en</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-08 12:53:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

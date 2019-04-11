@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="app_option" table="x_296864_coop_ocir_application" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>app_option</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3rd Party</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 19:54:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b68c7246db103300d37153184b96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 19:54:36</sys_updated_on>
+            <value>3rd party</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>app_option</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Internally developed</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_application</name>
+            <sequence>1</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 19:54:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a8c7246db103300d37153184b961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 19:54:36</sys_updated_on>
+            <value>internally developed</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>app_option</element>
+            <name>x_296864_coop_ocir_application</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-03-21 19:54:36</sys_created_on>
+            <sys_id>328c7246db103300d37153184b961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>app_option</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_application_app_option</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-03-21 19:54:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

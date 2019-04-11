@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_296864_coop_ocir_stg_succession_plan" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Copied</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>10</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-02 09:18:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f61ed279db603300d37153184b961918</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:52:32</sys_updated_on>
+            <value>copied</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Name Validated</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>20</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-02 09:18:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>620ed239db603300d37153184b96191d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:51:51</sys_updated_on>
+            <value>validated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Name Changed</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>30</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:52:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f81db7c2dba03300d37153184b961965</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:52:50</sys_updated_on>
+            <value>name_changed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Successor Confirmed</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>40</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:53:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>932db382dba03300d37153184b9619cb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:53:38</sys_updated_on>
+            <value>successor_confirmed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Succession plan in place</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>50</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:53:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>465d3bc2dba03300d37153184b961980</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:54:13</sys_updated_on>
+            <value>succession_plan_in_place</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Succession plan under draft</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>60</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:54:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc7dfbc2dba03300d37153184b961941</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:54:38</sys_updated_on>
+            <value>succession_plan_in_draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Escalated to business</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>70</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:54:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>959dbbc2dba03300d37153184b9619a5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:55:10</sys_updated_on>
+            <value>escalated_to_business</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Successor to be identified</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>80</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:55:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfadf7c2dba03300d37153184b961924</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:55:51</sys_updated_on>
+            <value>successor_to_be_identified</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Succession plan not started</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>90</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:56:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3eddf7c2dba03300d37153184b961925</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:56:14</sys_updated_on>
+            <value>succession_plan_not_started</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Succession plan field</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>100</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:56:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cfd3306dba03300d37153184b9619c4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:56:33</sys_updated_on>
+            <value>succession_plan_field</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Succession plan ready for review</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>110</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:56:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>250ebbc2dba03300d37153184b9619a6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:56:59</sys_updated_on>
+            <value>succession_plan_ready_for_review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reviewed and signed off</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sequence>120</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-03 10:57:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a61effc2dba03300d37153184b96191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-03 10:57:40</sys_updated_on>
+            <value>reviewed_and_signed_off</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_296864_coop_ocir_stg_succession_plan</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-04-02 09:18:19</sys_created_on>
+            <sys_id>97fdd279db603300d37153184b961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_succession_plan_status</sys_update_name>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-04-02 09:18:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

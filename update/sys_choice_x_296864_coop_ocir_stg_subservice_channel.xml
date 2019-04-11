@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="channel" table="x_296864_coop_ocir_stg_subservice" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Branch</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:14:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fff1624dbe03300d37153184b961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:14:58</sys_updated_on>
+            <value>Branch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Digital</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:15:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87202624dbe03300d37153184b961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:15:27</sys_updated_on>
+            <value>Digital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:15:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee306ee0dbe03300d37153184b96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:15:41</sys_updated_on>
+            <value>Email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Relationship Manager</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:15:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8202224dbe03300d37153184b961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:15:17</sys_updated_on>
+            <value>Relationship Manager</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telephony</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sequence/>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:15:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6106624dbe03300d37153184b96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:15:08</sys_updated_on>
+            <value>Telephony</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>channel</element>
+            <name>x_296864_coop_ocir_stg_subservice</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-29 12:14:58</sys_created_on>
+            <sys_id>0c10a224dbe03300d37153184b9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>channel</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_subservice_channel</sys_update_name>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:14:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

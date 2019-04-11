@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_296864_coop_ocir.Business approver" name="x_296864_coop_ocir.Business approver">1000f5b3dbe03300d37153184b96190a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>anasuya</sys_created_by>
+        <sys_created_on>2019-04-08 11:05:16</sys_created_on>
+        <sys_id>5c00f5b3dbe03300d37153184b96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1000f5b3dbe03300d37153184b96190a</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5c00f5b3dbe03300d37153184b96190b</sys_update_name>
+        <sys_updated_by>anasuya</sys_updated_by>
+        <sys_updated_on>2019-04-08 11:05:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

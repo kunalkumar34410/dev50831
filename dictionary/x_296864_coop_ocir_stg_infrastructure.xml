@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Infrastructure" max_length="40" name="x_296864_coop_ocir_stg_infrastructure" type="collection">
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Infrastructure Name" max_length="40" name="infrastructure_name" type="string"/>
+        <element choice="1" label="Licensed Entity" max_length="32" name="licensed_entity" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Location" max_length="40" name="location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Balloon Street" value="Balloon Street"/>
+                <element inactive_on_update="false" label="Olympic House, Manchester" sequence="2" value="Olympic House, Manchester"/>
+                <element inactive_on_update="false" label="CIS Manchester" sequence="3" value="CIS Manchester"/>
+                <element inactive_on_update="false" label="Britannia House, Leek" sequence="4" value="Britannia House, Leek"/>
+                <element inactive_on_update="false" label="Delf House, Skelmersdale" sequence="5" value="Delf House, Skelmersdale"/>
+                <element inactive_on_update="false" label="Sandalwood Court, Tytherington" sequence="6" value="Sandalwood Court, Tytherington"/>
+                <element inactive_on_update="false" label="St.Pauls, London" sequence="7" value="St.Pauls, London"/>
+                <element inactive_on_update="false" label="Pyramid, Stockport" sequence="8" value="Pyramid, Stockport"/>
+                <element inactive_on_update="false" label="Newton House, Leek" sequence="9" value="Newton House, Leek"/>
+            </choice>
+        </element>
+        <element choice="1" label="Owned Or Leased" max_length="40" name="owned_or_leased" type="choice">
+            <choice/>
+        </element>
+        <element label="3rd Party Suppliers" max_length="32" name="rd_party_suppliers" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <element label="Service" max_length="32" name="service" reference="x_296864_coop_ocir_stg_service" type="reference"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Task" max_length="40" name="task" type="string"/>
+        <index name="index">
+            <element name="service"/>
+        </index>
+        <index name="index2">
+            <element name="rd_party_suppliers"/>
+        </index>
+        <index name="index3">
+            <element name="licensed_entity"/>
+        </index>
+    </element>
+</database>

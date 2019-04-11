@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Succession Plan" max_length="40" name="x_296864_coop_ocir_succession_plan" type="collection">
+        <element label="Business Unit" max_length="32" name="business_unit" reference="business_unit" type="reference"/>
+        <element label="Change Agent" max_length="40" name="change_agent" type="boolean"/>
+        <element label="Email Id" max_length="40" name="email_id" type="string"/>
+        <element label="Employee Id of the Successor" max_length="40" name="employee_id_of_the_successor" type="string"/>
+        <element label="Employee Id" max_length="40" name="emp_id" type="string"/>
+        <element label="File Path" max_length="40" name="file_path" type="string"/>
+        <element label="Key Decision Maker" max_length="40" name="key_decision_maker" type="boolean"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Name of Successor" max_length="40" name="name_of_successor" type="string"/>
+        <element label="Senior Staff" max_length="40" name="senior_staff" type="boolean"/>
+        <element label="Service Id" max_length="32" name="service_id" reference="x_296864_coop_ocir_service" type="reference"/>
+        <element label="Service Name" max_length="40" name="service_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="yes" label="Succession Plan" max_length="40" name="succession_plan" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element label="User Group" max_length="32" name="user_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="user_group"/>
+        </index>
+        <index name="index2">
+            <element name="service_id"/>
+        </index>
+        <index name="index3">
+            <element name="business_unit"/>
+        </index>
+    </element>
+</database>

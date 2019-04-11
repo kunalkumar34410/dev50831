@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_296864_coop_ocir_aggregate_assets" label="Desktop and Laptop Hardware" max_length="40" name="x_296864_coop_ocir_desktop_and_laptop_hardware" type="collection"/>
+</database>

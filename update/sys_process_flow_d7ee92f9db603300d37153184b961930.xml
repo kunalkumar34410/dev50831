@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_296864_coop_ocir_stg_succession_plan">status=amended^EQ<item endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="amended"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Amended</label>
+        <name>State flow</name>
+        <order>300</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>kunal</sys_created_by>
+        <sys_created_on>2019-04-02 09:22:25</sys_created_on>
+        <sys_id>d7ee92f9db603300d37153184b961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State flow</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_process_flow_d7ee92f9db603300d37153184b961930</sys_update_name>
+        <sys_updated_by>kunal</sys_updated_by>
+        <sys_updated_on>2019-04-02 09:22:25</sys_updated_on>
+        <table>x_296864_coop_ocir_stg_succession_plan</table>
+    </sys_process_flow>
+</record_update>

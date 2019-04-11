@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Aggregate Assets" max_length="40" name="x_296864_coop_ocir_aggregate_assets" type="collection">
+        <element label="Asset Component" max_length="40" name="asset_component" type="string"/>
+        <element choice="1" label="Asset Sub-Type" max_length="40" name="asset_sub_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ATMs" sequence="0" value="atms"/>
+                <element inactive_on_update="false" label="Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Dara Centre)" sequence="0" value="Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Dara Centre)"/>
+                <element inactive_on_update="false" label="Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Data Centre)" sequence="0" value="Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Data Centre)"/>
+                <element inactive_on_update="false" label="Telephony (Main Offices, Branch, Contact Centre)" sequence="0" value="Telephony (Main Offices, Branch, Contact Centre)"/>
+                <element inactive_on_update="false" label="FMI Membership" sequence="1" value="fmi membership"/>
+                <element inactive_on_update="false" label="Cloud Servers" sequence="2" value="cloud servers"/>
+                <element inactive_on_update="false" label="Network Hardware" sequence="3" value="network hardware"/>
+                <element inactive_on_update="false" label="Mainframe(s)" sequence="4" value="mainframe(s)"/>
+                <element inactive_on_update="false" label="Servers" sequence="5" value="servers"/>
+                <element inactive_on_update="false" label="Racks" sequence="6" value="racks"/>
+                <element inactive_on_update="false" label="Remote Connectivity" sequence="7" value="remote connectivity"/>
+                <element inactive_on_update="false" label="Desktops &amp; Laptops" sequence="8" value="desktops &amp; laptops"/>
+                <element inactive_on_update="false" label="Mobile Phones (non-smart phones)" sequence="9" value="mobile phones (non-smart phones)"/>
+                <element inactive_on_update="false" label="Smart Phones - Blackberry" sequence="10" value="smart phones - blackberry"/>
+                <element inactive_on_update="false" label="Smartphones - New" sequence="11" value="smartphones - new"/>
+                <element inactive_on_update="false" label="Tablets" sequence="12" value="tablets"/>
+                <element inactive_on_update="false" label="Printers &amp; Scanners" sequence="13" value="printers &amp; scanners"/>
+                <element inactive_on_update="false" label="Fax Machines" sequence="14" value="fax machines"/>
+                <element inactive_on_update="false" label="Telephony (Main Offices" sequence="15" value="Telephony (Main Offices"/>
+                <element inactive_on_update="false" label="Post Scanning Machines" sequence="20" value="post scanning machines"/>
+                <element inactive_on_update="false" label="Security &amp; Access Control Equipment" sequence="21" value="security &amp; access control equipment"/>
+                <element inactive_on_update="false" label="Major &amp; Minor Occupancies (Office" sequence="22" value="Major &amp; Minor Occupancies (Office"/>
+                <element inactive_on_update="false" label="Scanning Centres (Post)" sequence="40" value="scanning centres (post)"/>
+                <element inactive_on_update="false" label="Fixtures &amp; Fittings" sequence="41" value="fixtures &amp; fittings"/>
+                <element inactive_on_update="false" label="Policies &amp; Standards" sequence="42" value="policies &amp; standards"/>
+                <element inactive_on_update="false" label="Patents" sequence="43" value="patents"/>
+                <element inactive_on_update="false" label="Confidentiality Agreements" sequence="44" value="confidentiality agreements"/>
+                <element inactive_on_update="false" label="End-User Computing (EUCs)" sequence="45" value="end-user computing (eucs)"/>
+                <element inactive_on_update="false" label="Applications" sequence="46" value="applications"/>
+                <element inactive_on_update="false" label="Social Media" sequence="47" value="social media"/>
+                <element inactive_on_update="false" label="Website &amp; Domain names" sequence="48" value="website &amp; domain names"/>
+                <element inactive_on_update="false" label="Trademarks" sequence="49" value="trademarks"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element display="true" label="ID" max_length="40" name="id" type="string"/>
+        <element choice="1" label="Owned or Leased" max_length="40" name="owner_leased" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Owned" sequence="0" value="owned"/>
+                <element inactive_on_update="false" label="Leased" sequence="1" value="leased"/>
+            </choice>
+        </element>
+        <element label="Rationale" max_length="40" name="rationale" type="string"/>
+        <element label="Supplier Contract Remediated?" max_length="40" name="supplier_contract_remediated" type="boolean"/>
+        <element label="Supplier ID" max_length="40" name="supplier_id" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="3rd Party Supplier" max_length="32" name="u_3rd_party_supplier" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <index name="index">
+            <element name="u_3rd_party_supplier"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="brands" table="x_296864_coop_ocir_service" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brands</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_service</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 15:36:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>423e6fd1dbd03300d37153184b961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 15:36:12</sys_updated_on>
+            <value>Britannia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brands</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Service</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_service</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c4e2791dbd03300d37153184b96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 15:36:22</sys_updated_on>
+            <value>Mortgage Agency Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brands</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Platform</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_service</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 15:35:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>962eaf51dbd03300d37153184b96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 15:35:57</sys_updated_on>
+            <value>Platform</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>brands</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>smile</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_service</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 15:35:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57cd6fd1dbd03300d37153184b96193b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 15:35:43</sys_updated_on>
+            <value>smile</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>brands</element>
+            <name>x_296864_coop_ocir_service</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 15:35:08</sys_created_on>
+            <sys_id>dafd6fd1dbd03300d37153184b96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>brands</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_service_brands</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 15:35:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

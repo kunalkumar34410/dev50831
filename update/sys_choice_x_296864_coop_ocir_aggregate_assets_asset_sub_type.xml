@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="asset_sub_type" table="x_296864_coop_ocir_aggregate_assets" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ATMs</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37a76280dbb03300d37153184b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>atms</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Dara Centre)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 13:01:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f349304db343300d37153184b96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:01:41</sys_updated_on>
+            <value>Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Dara Centre)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Data Centre)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 13:01:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b349304db343300d37153184b961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:01:41</sys_updated_on>
+            <value>Major &amp; Minor Occupancies (Office, Branch, Contact Centre, Mail Room, Data Centre)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telephony (Main Offices, Branch, Contact Centre)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>0</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 13:01:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13349304db343300d37153184b961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:01:40</sys_updated_on>
+            <value>Telephony (Main Offices, Branch, Contact Centre)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FMI Membership</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>1</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfa76280dbb03300d37153184b961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>fmi membership</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cloud Servers</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>2</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37a76280dbb03300d37153184b961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>cloud servers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Hardware</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>3</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bba76280dbb03300d37153184b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>network hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mainframe(s)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>4</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7a76280dbb03300d37153184b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>mainframe(s)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Servers</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>5</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fa76280dbb03300d37153184b9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>servers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Racks</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>6</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3a76280dbb03300d37153184b9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>racks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Remote Connectivity</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>7</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ba76280dbb03300d37153184b9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>remote connectivity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desktops &amp; Laptops</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>8</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffa76280dbb03300d37153184b9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>desktops &amp; laptops</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile Phones (non-smart phones)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>9</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77a76280dbb03300d37153184b9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>mobile phones (non-smart phones)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Smart Phones - Blackberry</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>10</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fba76280dbb03300d37153184b9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>smart phones - blackberry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Smartphones - New</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>11</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73a76280dbb03300d37153184b9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>smartphones - new</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tablets</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>12</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7a76280dbb03300d37153184b9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>tablets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Printers &amp; Scanners</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>13</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fa76280dbb03300d37153184b9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>printers &amp; scanners</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fax Machines</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>14</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0b76280dbb03300d37153184b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>fax machines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telephony (Main Offices</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>15</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48b76280dbb03300d37153184b9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>Telephony (Main Offices</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Post Scanning Machines</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>20</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccb76280dbb03300d37153184b9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>post scanning machines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security &amp; Access Control Equipment</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>21</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44b76280dbb03300d37153184b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>security &amp; access control equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Major &amp; Minor Occupancies (Office</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>22</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8b76280dbb03300d37153184b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>Major &amp; Minor Occupancies (Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scanning Centres (Post)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>40</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0b76280dbb03300d37153184b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>scanning centres (post)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fixtures &amp; Fittings</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>41</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48b76280dbb03300d37153184b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>fixtures &amp; fittings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Policies &amp; Standards</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>42</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccb76280dbb03300d37153184b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>policies &amp; standards</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Patents</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>43</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44b76280dbb03300d37153184b9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>patents</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Confidentiality Agreements</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>44</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8b76280dbb03300d37153184b9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>confidentiality agreements</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>End-User Computing (EUCs)</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>45</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40b76280dbb03300d37153184b9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>end-user computing (eucs)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Applications</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>46</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4b76280dbb03300d37153184b9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>applications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Social Media</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>47</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cb76280dbb03300d37153184b9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>social media</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Website &amp; Domain names</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>48</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0b76280dbb03300d37153184b9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>website &amp; domain names</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>asset_sub_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trademarks</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sequence>49</sequence>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48b76280dbb03300d37153184b9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+            <value>trademarks</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>asset_sub_type</element>
+            <name>x_296864_coop_ocir_aggregate_assets</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 09:47:01</sys_created_on>
+            <sys_id>bfa76280dbb03300d37153184b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>asset_sub_type</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_aggregate_assets_asset_sub_type</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 09:47:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

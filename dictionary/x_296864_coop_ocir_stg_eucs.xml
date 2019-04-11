@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EUCs" max_length="40" name="x_296864_coop_ocir_stg_eucs" type="collection">
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element display="true" label="EUC ID" max_length="40" name="euc_id" type="string"/>
+        <element label="EUC Name" max_length="40" name="euc_name" type="string"/>
+        <element choice="1" label="Licensed Entity" max_length="40" name="licensed_entity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Co-operative Bank plc" value="Co-operative Bank plc"/>
+                <element inactive_on_update="false" label="Moorland Covered Bonds Finance Limited" sequence="2" value="Moorland Covered Bonds Finance Limited"/>
+                <element inactive_on_update="false" label="Balloon Street IssuerCo Limited" sequence="3" value="Balloon Street IssuerCo Limited"/>
+                <element inactive_on_update="false" label="BPS Principal Employer Limited" sequence="4" value="BPS Principal Employer Limited"/>
+                <element inactive_on_update="false" label="Britannia Development &amp; Management Company Ltd" sequence="5" value="Britannia Development &amp; Management Company Ltd"/>
+                <element inactive_on_update="false" label="Britannia International Ltd" sequence="6" value="Britannia International Ltd"/>
+                <element inactive_on_update="false" label="Britannia Pension Trustees Limited" sequence="6" value="Britannia Pension Trustees Limited"/>
+                <element inactive_on_update="false" label="Britannia Treasury Services Ltd" sequence="7" value="Britannia Treasury Services Ltd"/>
+                <element inactive_on_update="false" label="Co-operative Bank Financial Advisers Ltd" sequence="8" value="Co-operative Bank Financial Advisers Ltd"/>
+                <element inactive_on_update="false" label="Co-operative Commercial Ltd" sequence="8" value="Co-operative Commercial Ltd"/>
+                <element inactive_on_update="false" label="Fourth Roodhill Leasing Ltd" sequence="9" value="Fourth Roodhill Leasing Ltd"/>
+                <element inactive_on_update="false" label="Moorland Covered Bonds LLP" sequence="10" value="Moorland Covered Bonds LLP"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Five Ltd" sequence="11" value="Mortgage Agency Services Number Five Ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Four Ltd" sequence="12" value="Mortgage Agency Services Number Four Ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number One Ltd" sequence="13" value="Mortgage Agency Services Number One Ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Six Ltd" sequence="14" value="Mortgage Agency Services Number Six Ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Two Ltd" sequence="15" value="Mortgage Agency Services Number Two Ltd"/>
+                <element inactive_on_update="false" label="Pace Trustees Limited" sequence="16" value="Pace Trustees Limited"/>
+                <element inactive_on_update="false" label="Platform Funding Ltd" sequence="17" value="Platform Funding Ltd"/>
+                <element inactive_on_update="false" label="Second Roodhill Leasing Ltd" sequence="18" value="Second Roodhill Leasing Ltd"/>
+                <element inactive_on_update="false" label="The Co-operative Bank Holdings Limited" sequence="19" value="The Co-operative Bank Holdings Limited"/>
+                <element inactive_on_update="false" label="Third Roodhill Leasing Ltd" sequence="20" value="Third Roodhill Leasing Ltd"/>
+                <element inactive_on_update="false" label="Unknown" sequence="21" value="Unknown"/>
+            </choice>
+        </element>
+        <element label="Service ID" max_length="32" name="service_id" reference="x_296864_coop_ocir_stg_service" type="reference"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Task" max_length="40" name="task" type="string"/>
+        <element label="Third Party Supplier" max_length="32" name="third_party_supplier" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <element choice="1" label="3rd party or internally developed" max_length="40" name="u_3rd_party_or_internally_developed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="3rd Party" value="3rd Party"/>
+                <element inactive_on_update="false" label="Internally Developed" value="Internally Developed"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="service_id"/>
+        </index>
+        <index name="index2">
+            <element name="third_party_supplier"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-09 12:38:38</sys_created_on>
+        <sys_id>04ee8300db343300d37153184b961993</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_296864_coop_ocir_m2m_economic_fun_services</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_db_view_table_04ee8300db343300d37153184b961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-09 12:44:59</sys_updated_on>
+        <table>x_296864_coop_ocir_m2m_economic_fun_services</table>
+        <variable_prefix>ef</variable_prefix>
+        <view display_value="x_296864_coop_ocir_ef_application">31ce4300db343300d37153184b961933</view>
+        <where_clause>ap_service =ef_service</where_clause>
+    </sys_db_view_table>
+</record_update>

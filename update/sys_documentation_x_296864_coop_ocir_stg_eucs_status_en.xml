@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="status" label="Status" language="en" table="x_296864_coop_ocir_stg_eucs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <help/>
+            <hint/>
+            <label>Status</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <plural>Status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:12:53</sys_created_on>
+            <sys_id>159f9ae0dbe03300d37153184b961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Status</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_documentation_x_296864_coop_ocir_stg_eucs_status_en</sys_update_name>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:12:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

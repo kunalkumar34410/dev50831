@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="OCIR Task" max_length="40" name="x_296864_coop_ocir_ocir_task" sizeclass="5" type="collection">
+        <element label="Assigned Date" max_length="40" name="assigned_date" type="glide_date"/>
+        <element label="Decision History" max_length="4000" name="decision_history" type="journal_list"/>
+        <element label="Planned due date" max_length="40" name="interim_due_date" type="glide_date"/>
+        <element label="Business due date percentage" max_length="40" name="interim_percentage" type="percent_complete"/>
+        <element label="Parent User Group" max_length="32" name="refresh_assignment_group" reference="sys_user_group" type="reference"/>
+        <element label="Show Decision History" max_length="40" name="show_decision_history" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="refresh criticality" label="Task Type" max_length="40" name="task_type" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Refresh Criticality" sequence="0" value="refresh criticality"/>
+                <element inactive_on_update="false" label="Refresh Op assets" sequence="1" value="refresh op assets"/>
+                <element inactive_on_update="false" label="Refresh attributes" sequence="2" value="refresh attributes"/>
+                <element inactive_on_update="false" label="Refresh Metrics" sequence="3" value="refresh metrics"/>
+                <element inactive_on_update="false" label="Refresh ATM" sequence="4" value="refresh atm"/>
+                <element inactive_on_update="false" label="Refresh IT Infrastructure" sequence="5" value="refresh it infrastructure"/>
+                <element inactive_on_update="false" label="Refresh Intranet" sequence="6" value="refresh intranet"/>
+                <element inactive_on_update="false" label="Refresh Mobile Network" sequence="7" value="refresh mobile network"/>
+                <element inactive_on_update="false" label="Refresh Digital assets" sequence="8" value="refresh digital assets"/>
+                <element inactive_on_update="false" label="Refresh Telephony" sequence="9" value="refresh telephony"/>
+                <element inactive_on_update="false" label="Refresh Estates" sequence="10" value="refresh estates"/>
+                <element inactive_on_update="false" label="Refresh Desktops" sequence="11" value="refresh desktops"/>
+                <element inactive_on_update="false" label="Refresh Mobile Hardware" sequence="12" value="refresh mobile hardware"/>
+                <element inactive_on_update="false" label="Refresh marketing assets" sequence="13" value="refresh marketing assets"/>
+                <element inactive_on_update="false" label="Refresh FMIs" sequence="14" value="refresh fmis"/>
+                <element inactive_on_update="false" label="Refresh Policies" sequence="15" value="refresh policies"/>
+                <element inactive_on_update="false" label="Refresh legal assets" sequence="16" value="refresh legal assets"/>
+                <element inactive_on_update="false" label="Refresh succession plan" sequence="17" value="refresh succession plan"/>
+                <element inactive_on_update="false" label="Refresh Costing" sequence="18" value="refresh costing"/>
+            </choice>
+        </element>
+    </element>
+</database>

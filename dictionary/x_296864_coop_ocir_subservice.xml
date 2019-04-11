@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Subservice" max_length="40" name="x_296864_coop_ocir_subservice" type="collection">
+        <element choice="1" label="Brand" max_length="40" name="brand" reference="x_296864_coop_ocir_brands" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="The Co Operative Bank" sequence="0" value="the co operative bank"/>
+                <element inactive_on_update="false" label="Smile" sequence="1" value="smile"/>
+                <element inactive_on_update="false" label="Platform" sequence="2" value="platform"/>
+                <element inactive_on_update="false" label="Britannia" sequence="3" value="britannia"/>
+                <element inactive_on_update="false" label="Mortgage Agency Service" sequence="4" value="mortgage agency service"/>
+            </choice>
+        </element>
+        <element choice="1" label="Channels" max_length="4000" name="channels" reference="x_296864_coop_ocir_channels" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Branch" sequence="0" value="branch"/>
+                <element inactive_on_update="false" label="Telephony" sequence="1" value="telephony"/>
+                <element inactive_on_update="false" label="Relationship Manager" sequence="2" value="relationship manager"/>
+                <element inactive_on_update="false" label="Digital" sequence="3" value="digital"/>
+                <element inactive_on_update="false" label="Email" sequence="4" value="email"/>
+            </choice>
+        </element>
+        <element choice="1" label="Criticality" max_length="40" name="criticaliity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Critical" sequence="0" value="Critical"/>
+                <element inactive_on_update="false" label="Non-Critical" sequence="1" value="Non-Critical"/>
+            </choice>
+        </element>
+        <element choice="1" label="Criticality Rationale" max_length="40" name="criticality_rationale" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rationale" sequence="0" value="rationale"/>
+                <element inactive_on_update="false" label="Non- Rationale" sequence="1" value="non- rationale"/>
+            </choice>
+        </element>
+        <element label="Subservice Description" max_length="1000" name="description" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Economic Functions" max_length="1024" name="economic_functions" reference="x_296864_coop_ocir_economic_function" type="glide_list"/>
+        <element display="true" label="Subservice ID" max_length="40" name="id" type="string"/>
+        <element choice="1" label="Locations" max_length="4000" name="locations" reference="cmn_location" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Balloon Street" sequence="0" value="balloon street"/>
+                <element inactive_on_update="false" label="Olympic House" sequence="1" value="Olympic House"/>
+                <element inactive_on_update="false" label="CIS Manchester" sequence="4" value="cis manchester"/>
+                <element inactive_on_update="false" label="Britannia House" sequence="5" value="Britannia House"/>
+                <element inactive_on_update="false" label="Delf House" sequence="8" value="Delf House"/>
+                <element inactive_on_update="false" label="Sandalwood Court" sequence="11" value="Sandalwood Court"/>
+                <element inactive_on_update="false" label="St.Pauls" sequence="14" value="St.Pauls"/>
+                <element inactive_on_update="false" label="Pyramid" sequence="17" value="Pyramid"/>
+                <element inactive_on_update="false" label="Newton House" sequence="20" value="Newton House"/>
+            </choice>
+        </element>
+        <element label="Subservice name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Recipient Business Line" max_length="40" name="recipient_business_line" reference="x_296864_coop_ocir_recepient_business_line" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Retail" sequence="0" value="retail"/>
+                <element inactive_on_update="false" label="Business Banking" sequence="1" value="business banking"/>
+            </choice>
+        </element>
+        <element choice="1" label="Recipient Legal Entities" max_length="4000" name="recipient_legal_entities" reference="x_296864_coop_ocir_legal_entities" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="The Co-operative Bank plc" sequence="0" value="the co-operative bank plc"/>
+                <element inactive_on_update="false" label="Britannia Treasury Services Ltd" sequence="1" value="britannia treasury services ltd"/>
+                <element inactive_on_update="false" label="The Co-operative Bank Holdings Limited" sequence="2" value="the co-operative bank holdings limited"/>
+                <element inactive_on_update="false" label="Moorland Covered Bonds LLP" sequence="3" value="moorland covered bonds llp"/>
+                <element inactive_on_update="false" label="Second Roodhill Leasing Ltd" sequence="4" value="second roodhill leasing ltd"/>
+                <element inactive_on_update="false" label="Third Roodhill Leasing Ltd" sequence="5" value="third roodhill leasing ltd"/>
+                <element inactive_on_update="false" label="Fourth Roodhill Leasing Ltd" sequence="6" value="fourth roodhill leasing ltd"/>
+                <element inactive_on_update="false" label="Platform Funding Ltd" sequence="7" value="platform funding ltd"/>
+                <element inactive_on_update="false" label="Co-operative Bank Financial Advisers Ltd" sequence="8" value="co-operative bank financial advisers ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number One Ltd" sequence="9" value="mortgage agency services number one ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Two Ltd" sequence="10" value="mortgage agency services number two ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Four Ltd" sequence="11" value="mortgage agency services number four ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Five Ltd" sequence="12" value="mortgage agency services number five ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Six Ltd" sequence="13" value="mortgage agency services number six ltd"/>
+                <element inactive_on_update="false" label="Britannia International Ltd" sequence="14" value="britannia international ltd"/>
+                <element inactive_on_update="false" label="BPS Principal Employer Limited" sequence="15" value="bps principal employer limited"/>
+                <element inactive_on_update="false" label="Britannia Development &amp; Management Company Ltd" sequence="16" value="britannia development &amp; management company ltd"/>
+                <element inactive_on_update="false" label="Co-operative Commercial Ltd" sequence="17" value="co-operative commercial ltd"/>
+                <element inactive_on_update="false" label="Britannia Pension Trustees Limited" sequence="18" value="britannia pension trustees limited"/>
+                <element inactive_on_update="false" label="Pace Trustees Limited" sequence="19" value="pace trustees limited"/>
+                <element inactive_on_update="false" label="Balloon Street Issuer Co Limited" sequence="20" value="balloon street issuer co limited"/>
+                <element inactive_on_update="false" label="Moorland Covered Bonds Finance Limited" sequence="21" value="moorland covered bonds finance limited"/>
+            </choice>
+        </element>
+        <element label="Service ID" max_length="32" name="service" reference="x_296864_coop_ocir_service" type="reference"/>
+        <element label="SLA reference" max_length="40" name="sla" type="string"/>
+        <index name="index">
+            <element name="service"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="298c6a44dbb03300d37153184b961915" sys_domain="global" table="x_296864_coop_ocir_telephony" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>0</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>258c6a44dbb03300d37153184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_sub_type</element>
+            <position>1</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>a58c6a44dbb03300d37153184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner_leased</element>
+            <position>2</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>298c6a44dbb03300d37153184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier_contract_remediated</element>
+            <position>3</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>a98c6a44dbb03300d37153184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>2d8c6a44dbb03300d37153184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_component</element>
+            <position>5</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>ad8c6a44dbb03300d37153184b961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_3rd_party_supplier</element>
+            <position>6</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>218c6a44dbb03300d37153184b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier_id</element>
+            <position>7</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>a18c6a44dbb03300d37153184b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>258c6a44dbb03300d37153184b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rationale</element>
+            <position>9</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>a58c6a44dbb03300d37153184b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>10</position>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_id>298c6a44dbb03300d37153184b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_296864_coop_ocir_telephony" sys_domain="global" view="Default view">298c6a44dbb03300d37153184b961915</sys_ui_section>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_296864_coop_ocir_telephony</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kunal</sys_created_by>
+            <sys_created_on>2019-04-09 10:08:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>298c6a44dbb03300d37153184b961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_296864_coop_ocir_telephony</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_ui_section_298c6a44dbb03300d37153184b961915</sys_update_name>
+            <sys_updated_by>kunal</sys_updated_by>
+            <sys_updated_on>2019-04-09 10:08:10</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

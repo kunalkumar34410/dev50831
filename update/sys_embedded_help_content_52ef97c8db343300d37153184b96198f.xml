@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<p>Metrics</p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>x_296864_coop_ocir_metric_list-normal</name>
+        <page>x_296864_coop_ocir_metric_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-09 13:52:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>52ef97c8db343300d37153184b96198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_296864_coop_ocir_metric_list-normal</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_embedded_help_content_52ef97c8db343300d37153184b96198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-09 13:52:53</sys_updated_on>
+        <version>l</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=52ef97c8db343300d37153184b96198f"/>
+</record_update>

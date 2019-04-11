@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Application" max_length="40" name="x_296864_coop_ocir_application" type="collection">
+        <element label="Application ID" max_length="40" name="app_id" type="string"/>
+        <element label="Application Name" max_length="40" name="app_name" type="string"/>
+        <element choice="1" label="3rd Party or Internally Developed" max_length="40" name="app_option" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="3rd Party" sequence="0" value="3rd party"/>
+                <element inactive_on_update="false" label="Internally developed" sequence="1" value="internally developed"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="4000" name="comment" type="journal"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element choice="1" choice_field="recipient_legal_entities" choice_table="x_296864_coop_ocir_subservice" label="Licensed Entity" max_length="40" name="licensed_entity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="The Co-operative Bank plc" sequence="0" value="the co-operative bank plc"/>
+                <element inactive_on_update="false" label="Britannia Treasury Services Ltd" sequence="1" value="britannia treasury services ltd"/>
+                <element inactive_on_update="false" label="The Co-operative Bank Holdings Limited" sequence="2" value="the co-operative bank holdings limited"/>
+                <element inactive_on_update="false" label="Moorland Covered Bonds LLP" sequence="3" value="moorland covered bonds llp"/>
+                <element inactive_on_update="false" label="Second Roodhill Leasing Ltd" sequence="4" value="second roodhill leasing ltd"/>
+                <element inactive_on_update="false" label="Third Roodhill Leasing Ltd" sequence="5" value="third roodhill leasing ltd"/>
+                <element inactive_on_update="false" label="Fourth Roodhill Leasing Ltd" sequence="6" value="fourth roodhill leasing ltd"/>
+                <element inactive_on_update="false" label="Platform Funding Ltd" sequence="7" value="platform funding ltd"/>
+                <element inactive_on_update="false" label="Co-operative Bank Financial Advisers Ltd" sequence="8" value="co-operative bank financial advisers ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number One Ltd" sequence="9" value="mortgage agency services number one ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Two Ltd" sequence="10" value="mortgage agency services number two ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Four Ltd" sequence="11" value="mortgage agency services number four ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Five Ltd" sequence="12" value="mortgage agency services number five ltd"/>
+                <element inactive_on_update="false" label="Mortgage Agency Services Number Six Ltd" sequence="13" value="mortgage agency services number six ltd"/>
+                <element inactive_on_update="false" label="Britannia International Ltd" sequence="14" value="britannia international ltd"/>
+                <element inactive_on_update="false" label="BPS Principal Employer Limited" sequence="15" value="bps principal employer limited"/>
+                <element inactive_on_update="false" label="Britannia Development &amp; Management Company Ltd" sequence="16" value="britannia development &amp; management company ltd"/>
+                <element inactive_on_update="false" label="Co-operative Commercial Ltd" sequence="17" value="co-operative commercial ltd"/>
+                <element inactive_on_update="false" label="Britannia Pension Trustees Limited" sequence="18" value="britannia pension trustees limited"/>
+                <element inactive_on_update="false" label="Pace Trustees Limited" sequence="19" value="pace trustees limited"/>
+                <element inactive_on_update="false" label="Balloon Street Issuer Co Limited" sequence="20" value="balloon street issuer co limited"/>
+                <element inactive_on_update="false" label="Moorland Covered Bonds Finance Limited" sequence="21" value="moorland covered bonds finance limited"/>
+            </choice>
+        </element>
+        <element label="Service" max_length="32" name="service" reference="x_296864_coop_ocir_service" type="reference"/>
+        <element label="Third Party Supplier" max_length="32" name="third_party_supplier" reference="x_296864_coop_ocir_third_party_supplier" type="reference"/>
+        <index name="index">
+            <element name="service"/>
+        </index>
+        <index name="index2">
+            <element name="third_party_supplier"/>
+        </index>
+    </element>
+</database>

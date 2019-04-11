@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="3rd Party Supplier" max_length="40" name="x_296864_coop_ocir_third_party_supplier" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

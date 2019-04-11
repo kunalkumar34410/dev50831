@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="licensed_entity" table="x_296864_coop_ocir_stg_eucs" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-operative Bank plc</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence/>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:16:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65402a24dbe03300d37153184b961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:16:03</sys_updated_on>
+            <value>Co-operative Bank plc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Moorland Covered Bonds Finance Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>2</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:16:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae502a24dbe03300d37153184b96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:16:14</sys_updated_on>
+            <value>Moorland Covered Bonds Finance Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Balloon Street IssuerCo Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>3</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:16:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d602a24dbe03300d37153184b9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:16:26</sys_updated_on>
+            <value>Balloon Street IssuerCo Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BPS Principal Employer Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>4</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:16:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88706624dbe03300d37153184b961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:16:37</sys_updated_on>
+            <value>BPS Principal Employer Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia Development &amp; Management Company Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>5</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:16:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a270ea24dbe03300d37153184b96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:16:47</sys_updated_on>
+            <value>Britannia Development &amp; Management Company Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia International Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>6</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:17:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93802e24dbe03300d37153184b9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:17:07</sys_updated_on>
+            <value>Britannia International Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia Pension Trustees Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>6</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:17:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d906e24dbe03300d37153184b961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:17:16</sys_updated_on>
+            <value>Britannia Pension Trustees Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia Treasury Services Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>7</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:17:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10a0ea24dbe03300d37153184b961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:17:27</sys_updated_on>
+            <value>Britannia Treasury Services Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-operative Bank Financial Advisers Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>8</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:17:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fa0ea24dbe03300d37153184b96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:17:38</sys_updated_on>
+            <value>Co-operative Bank Financial Advisers Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Co-operative Commercial Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>8</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:17:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30b0ae24dbe03300d37153184b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:17:45</sys_updated_on>
+            <value>Co-operative Commercial Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fourth Roodhill Leasing Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>9</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:18:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5c0ea24dbe03300d37153184b961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:18:03</sys_updated_on>
+            <value>Fourth Roodhill Leasing Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Moorland Covered Bonds LLP</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>10</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:18:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6bc06e24dbe03300d37153184b96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:18:13</sys_updated_on>
+            <value>Moorland Covered Bonds LLP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Five Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>11</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:18:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05f0ea24dbe03300d37153184b961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:18:52</sys_updated_on>
+            <value>Mortgage Agency Services Number Five Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Four Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>12</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:19:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33f02264dbe03300d37153184b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:19:03</sys_updated_on>
+            <value>Mortgage Agency Services Number Four Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number One Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>13</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:19:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9301e264dbe03300d37153184b9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:19:17</sys_updated_on>
+            <value>Mortgage Agency Services Number One Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Six Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>14</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:19:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3511a264dbe03300d37153184b9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:19:28</sys_updated_on>
+            <value>Mortgage Agency Services Number Six Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortgage Agency Services Number Two Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>15</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:19:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f421e264dbe03300d37153184b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:19:40</sys_updated_on>
+            <value>Mortgage Agency Services Number Two Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pace Trustees Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>16</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:19:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b21e264dbe03300d37153184b961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:19:51</sys_updated_on>
+            <value>Pace Trustees Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Platform Funding Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>17</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:20:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d231a664dbe03300d37153184b961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:20:03</sys_updated_on>
+            <value>Platform Funding Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Second Roodhill Leasing Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>18</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:20:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec41e664dbe03300d37153184b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:20:12</sys_updated_on>
+            <value>Second Roodhill Leasing Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Co-operative Bank Holdings Limited</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>19</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:20:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b412a64dbe03300d37153184b961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:20:23</sys_updated_on>
+            <value>The Co-operative Bank Holdings Limited</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Third Roodhill Leasing Ltd</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>20</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:20:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9512a64dbe03300d37153184b961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:20:33</sys_updated_on>
+            <value>Third Roodhill Leasing Ltd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>licensed_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unknown</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sequence>21</sequence>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44616a64dbe03300d37153184b961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:20:43</sys_updated_on>
+            <value>Unknown</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>licensed_entity</element>
+            <name>x_296864_coop_ocir_stg_eucs</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>navin</sys_created_by>
+            <sys_created_on>2019-03-29 12:16:03</sys_created_on>
+            <sys_id>f3402a24dbe03300d37153184b9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>licensed_entity</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_stg_eucs_licensed_entity</sys_update_name>
+            <sys_updated_by>navin</sys_updated_by>
+            <sys_updated_on>2019-03-29 12:16:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

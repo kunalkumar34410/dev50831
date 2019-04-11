@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Economic Function" max_length="40" name="x_296864_coop_ocir_economic_function" type="collection">
+        <element choice="1" label="Criticality" max_length="40" name="criticality" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Critical" sequence="0" value="critical"/>
+                <element inactive_on_update="false" label="Non-Critical" sequence="1" value="non-critical"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Subservice" max_length="32" name="subservice" reference="x_296864_coop_ocir_subservice" reference_floats="true" type="reference"/>
+        <index name="index">
+            <element name="subservice"/>
+        </index>
+    </element>
+</database>

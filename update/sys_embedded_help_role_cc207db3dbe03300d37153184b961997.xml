@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_296864_coop_ocir.Aggregated assets approver" name="x_296864_coop_ocir.Aggregated assets approver">8c2035b3dbe03300d37153184b961973</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>anasuya</sys_created_by>
+        <sys_created_on>2019-04-08 11:05:49</sys_created_on>
+        <sys_id>cc207db3dbe03300d37153184b961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8c2035b3dbe03300d37153184b961973</sys_name>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cc207db3dbe03300d37153184b961997</sys_update_name>
+        <sys_updated_by>anasuya</sys_updated_by>
+        <sys_updated_on>2019-04-08 11:05:49</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

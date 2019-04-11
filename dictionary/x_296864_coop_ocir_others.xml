@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Others" max_length="40" name="x_296864_coop_ocir_others" type="collection">
+        <element label="Aggregate Assets" max_length="32" name="aggregate_assets" reference="x_296864_coop_ocir_aggregate_assets" type="reference"/>
+        <index name="index">
+            <element name="aggregate_assets"/>
+        </index>
+    </element>
+</database>

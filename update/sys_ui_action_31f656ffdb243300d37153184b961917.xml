@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name/>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2/>
+        <comments/>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Start</name>
+        <onclick/>
+        <order>50</order>
+        <script><![CDATA[var flag =0;
+var grMem = new GlideRecord('sys_user_grmember');
+grMem.addQuery('group',current.assignment_group);
+grMem.query();
+while(grMem.next()){
+	var hasRole=new GlideRecord('sys_user_has_role');
+	hasRole.addQuery('user',grMem.user);
+	hasRole.addQuery('role.name','x_296864_coop_ocir.ExCo');
+	hasRole.query();
+	if(hasRole.next()){
+		flag=1;
+		break;
+	}
+}
+if(flag ==0){
+	gs.addErrorMessage('Usergroup should have an ExCo member, refersh can not be started');
+	action.setRedirectURL(current);
+}
+if(flag ==1){
+	var ocirTask = new GlideRecord('x_296864_coop_ocir_ocir_task');
+	ocirTask.initialize();
+	ocirTask.assignment_group = current.refresh_assignment_group;
+	ocirTask.insert();
+	action.setRedirectURL(ocirTask);
+}]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>anasuya</sys_created_by>
+        <sys_created_on>2019-04-08 14:11:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31f656ffdb243300d37153184b961917</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Start</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+        <sys_update_name>sys_ui_action_31f656ffdb243300d37153184b961917</sys_update_name>
+        <sys_updated_by>anasuya</sys_updated_by>
+        <sys_updated_on>2019-04-09 11:51:13</sys_updated_on>
+        <table>x_296864_coop_ocir_refresh2</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

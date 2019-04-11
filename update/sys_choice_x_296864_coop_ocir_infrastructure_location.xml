@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="location" table="x_296864_coop_ocir_infrastructure" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Balloon Street</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>0</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d678f992dbd43300d37153184b961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>balloon street</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Olympic House</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>1</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a78f992dbd43300d37153184b961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>Olympic House</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CIS Manchester</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>2</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9678f992dbd43300d37153184b961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>cis manchester</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Britannia House</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>3</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1678f992dbd43300d37153184b961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>Britannia House</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delf House</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>4</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9278f992dbd43300d37153184b961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>Delf House</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sandalwood Court</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>5</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1278f992dbd43300d37153184b961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>Sandalwood Court</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>St.Pauls</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>6</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e78f992dbd43300d37153184b961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>St.Pauls</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pyramid</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>7</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e78f992dbd43300d37153184b961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>Pyramid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Newton House</label>
+            <language>en</language>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sequence>8</sequence>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a78f992dbd43300d37153184b96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+            <value>Newton House</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <name>x_296864_coop_ocir_infrastructure</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>anasuya</sys_created_by>
+            <sys_created_on>2019-03-22 09:35:41</sys_created_on>
+            <sys_id>1278f992dbd43300d37153184b961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>location</sys_name>
+            <sys_package display_value="OCIR" source="x_296864_coop_ocir">f06f5615db103300d37153184b9619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OCIR">f06f5615db103300d37153184b9619ac</sys_scope>
+            <sys_update_name>sys_choice_x_296864_coop_ocir_infrastructure_location</sys_update_name>
+            <sys_updated_by>anasuya</sys_updated_by>
+            <sys_updated_on>2019-03-22 09:35:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
